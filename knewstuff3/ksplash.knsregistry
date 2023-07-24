@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>12KdePlasmaSplash_oa47</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1433247</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>849</downloads>
+  <installedfile>/home/.local/share/plasma/look-and-feel/12KdePlasmaSplash_oa47</installedfile>
+  <id>1433247</id>
+  <releasedate>2020-10-14</releasedate>
+  <summary>Plasma splashscreen KDE Plasma.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1433247/f5aeeeb6ddc0db01be3988dc048bcda135290502ed7d187c2dd8f6abe3a7196968cc.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1433247/f5aeeeb6ddc0db01be3988dc048bcda135290502ed7d187c2dd8f6abe3a7196968cc.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDI2NjQzODEiLCJvIjoiMSIsInMiOiIyOWIwZDA4Yjg5OWYyOTc1MTc3ZTc4Y2U2NGNmM2M4NWVkMjA1NjYwZTU4YzJkOGZmZDk1ZmJiMDdlN2Q1ZGIzNzliOGI2OWY5MzBhMGM5ZTk1MjEyN2JmZTNmNDAxYmI5ODIyYjNjMTllNjU3ZGY1YjVmNzgxY2M5ZWZkYzIyYyIsInQiOjE2ODgxMTkyNDksInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.R5W331l9HY482GaHwVIdD1YPxO2NZ_GqheJeVX7VmMU/12KdePlasmaSplash_oa47.tar.gz</payload>
+  <tags>unix,linux,kde,gplv3,plasma##majorversion=5,plasma,screen,splash,splashscreen,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>14SplashPlasma_v704</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1395991</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>867</downloads>
+  <installedfile>/home/.local/share/plasma/look-and-feel/14SplashPlasma_v704</installedfile>
+  <id>1395991</id>
+  <releasedate>2020-06-20</releasedate>
+  <summary>Boot screen saver Nature Kde Plasma from creativity. &lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1395991/211dffd8ec607665b05afbdb599a763b0427.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1395991/211dffd8ec607665b05afbdb599a763b0427.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTI2NjA3NDUiLCJvIjoiMSIsInMiOiI3OTk1YjE0ODQxY2MzZWI1Y2E3YjNhZTkyZDBiZDNhY2M0MWU3NDQyMjI5YzUzMWE1NzQ0NjI1ZmVhNDI4OGUxNWNkZjJjNTA2ZDk5ZTRkNzRhZDAxNzA4MjhjYWUxOTdhNWEwMjY3OGQ5ZTJlMWIwMzQzYjAwZTdmMGRiYjZlNCIsInQiOjE2ODgxMTkyNjQsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.RhE385jO-f7gXIYk8kcySKWIyZm42sEvAYu09OTjh0M/14SplashPlasma_v704.tar.gz</payload>
+  <tags>unix,gplv3,theme,splash,splashscreen,plasma,plasma##majorversion=5,linux,modification-product,kde,bootscreen</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>1-Lemon-for-your-table-splash</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1483934</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>314</downloads>
+  <installedfile>/home/.local/share/plasma/look-and-feel/1-Lemon-for-your-table-splash</installedfile>
+  <id>1483934</id>
+  <releasedate>2021-02-20</releasedate>
+  <summary>Plasma splashscreen KDE Plasma.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/55/86/05/1483934/ae171faa4757982318db5253db64392899cc83add9f01ce556d9e093beb5d08c87b1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/55/86/05/1483934/ae171faa4757982318db5253db64392899cc83add9f01ce556d9e093beb5d08c87b1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTM4MTk4MDAiLCJvIjoiMSIsInMiOiJhNzBmNWI3YjYxN2U4MWY3MTdkNjkzOWZkYmU1NTAxNGUxODdkYzNlMzk5ODJhZTIwMjFmMjY3MjlmYTRkODk5ODM2NWMxZThjYjYxNTg5YWRiZWFhYmU3OTU1ODc0NTJhMGIxM2EyMGUyMDY2NDA4NTRiMWFmZWY0NjQzYWMyOSIsInQiOjE2ODgxMTkyMjAsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.4lY7qKxdPAlCm2rIFQreWzy-6Lntm9ki0uGn5iqA-O4/1-Lemon-for-your-table-splash.tar.gz</payload>
+  <tags>kde,linux,lemon,unix,gplv3,screen,plasma##majorversion=5,plasma,splashscreen,splash,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

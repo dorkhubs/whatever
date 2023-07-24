@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Silvery-Konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2044646</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>462</downloads>
+  <installedfile>/home/.local/share/konsole/Silvery-Konsole.colorscheme</installedfile>
+  <id>2044646</id>
+  <releasedate>2023-05-31</releasedate>
+  <summary>Dark Konsole Theme, customized for the Dark Rounded Plasma Theme &lt;span style="color: #5e81ac;"> &lt;strong>Silvery-Dark-Plasma&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/2044662/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2044646/screenshot-20230527-104552.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2044646/screenshot-20230527-104552.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODU1MjAyNTQiLCJvIjoiMSIsInMiOiI2YTllYjQ1OTYzZDFjYmM5OWUwZjM3NTllMGVmMGEyZjE2MjI1MGFkMzNhZjdkOTFlODJhZTg5YzAwMjk0ZGQ5ODFjMmY0ZTI4NGM3MjBlYjIwN2I2ZjRlMDg3YTNmZjllZGFhMGFiM2QyZGZmYTQ2MTdmNDg3N2FjMGIyZDcxMiIsInQiOjE2ODkzODM1ODgsInN0ZnAiOm51bGwsInN0aXAiOiI3MC4yNTIuMTguMTUxIn0.n1TplXFCbVHvhbmeeWLOpFqqudOHgaeDQOy3QoNzMLc/Silvery-Konsole.colorscheme</payload>
+  <tags>original-product,gplv3,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Bluish-Konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/2055292</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>258</downloads>
+  <installedfile>/home/.local/share/konsole/Bluish-Konsole.colorscheme</installedfile>
+  <id>2055292</id>
+  <releasedate>2023-06-23</releasedate>
+  <summary>Dark Konsole Theme, customized for the Dark Rounded Plasma Theme&lt;span style="color: #5e81ac;"> &lt;strong>Bluish-Dark-Plasma&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/2055339/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/2055292/screenshot-20230619-085305.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/2055292/screenshot-20230619-085305.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODc1MzA3MjEiLCJvIjoiMSIsInMiOiIxMjc4Yzk3ZmYxMDBkZTEyYzA4MmUzMGUxYWNlMzhiMTYwNTAzYzFhYTYwNjUxMWQzMThlMmNhY2ZjZDM5OTQ4NThmZGI0Mjk2NzE2MGFiOWExZGVhNzkyZDIxNTBhY2JkYTlkYjljM2Y1MDI2NTZhMzNiOGYzZWViZTM0MGEyOCIsInQiOjE2ODkzODM1ODQsInN0ZnAiOm51bGwsInN0aXAiOiI3MC4yNTIuMTguMTUxIn0.3wFzv29eqnAKsRGpHwwgS151HJkXIDXSGsuSdL_gtYA/Bluish-Konsole.colorscheme</payload>
+  <tags>gplv3,original-product,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Catppuccin Sky-Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jay-eos</author>
+  <homepage>https://store.kde.org/p/2044636</homepage>
+  <licence></licence>
+  <version>1</version>
+  <rating>50</rating>
+  <downloads>380</downloads>
+  <installedfile>/home/.local/share/konsole/Catppuccin-Sky-Dark.colorscheme</installedfile>
+  <id>2044636</id>
+  <releasedate>2023-05-31</releasedate>
+  <summary>Color Scheme for KDE Plasma Konsole (Terminal) based on Catppuccin Mocha (Sky) Flavour. Features a dark background best for people who like dark theme on their terminal</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/71/19/95/2044636/screenshot-2023-05-31-at-15-11-35-logo-maker-used-by-2.3-million-startups.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/71/19/95/2044636/screenshot-2023-05-31-at-15-11-35-logo-maker-used-by-2.3-million-startups.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODU1MTkwOTUiLCJvIjoiMSIsInMiOiJlMWIzNWQ3YjAxN2EzNmQ1MjdlMjJhMjRmMzI3OGE2ZGRjYzFkYjBhNDEzMDFiMmViNzUzMzBkYzg4Yzg5YzkxYjIwMDcyOWIzZTJhZjRjN2QxOTU2MDI5N2VhOTNhZjgyNjI5ZmZiMTYyNTM0M2ZiZjQ1YzZhYzg0YjNhOGYwZiIsInQiOjE2ODkzNzMwMjEsInN0ZnAiOm51bGwsInN0aXAiOiI3MC4yNTIuMTguMTUxIn0.Svek3i0QdKJPBoZ9mMQirXXqsMKkk_KvhyPGpEL0nk4/Catppuccin-Sky-Dark.colorscheme</payload>
+  <tags>color-schemes,dark,catppuccin,addon,original-product,terminal,mit-license,konsole</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

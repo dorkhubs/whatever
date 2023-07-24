@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="298">
+  <name>flower</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sasanka98</author>
+  <homepage>https://store.kde.org/p/2063041</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1</downloads>
+  <installedfile>/home/.local/share/wallpapers/valentine-day-g8ea7b9292-1280.jpg</installedfile>
+  <id>2063041</id>
+  <releasedate>2023-07-15</releasedate>
+  <summary>1280×960 size&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/72/17/98/2063041/valentine-day-g8ea7b9292-1280.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/72/17/98/2063041/valentine-day-g8ea7b9292-1280.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODk0MDY3MzMiLCJvIjoiMSIsInMiOiJkMjk2NzUzOTY5YTkxYTdmN2JhOGFiOGIzYWViOTZhNWM0MWI5YTVjNDkzOGRlY2VjOTUwZGRlZTk4MTQwN2RlYzdiMTgyZDVkMjlhOTAxOGE4MTk3YWU2YzcyZmViZDBmNTA5MmUwZmRiOGZiNjUyYWE0ZjFlYmEyYzM3NGExMiIsInQiOjE2ODk0MzYwOTAsInN0ZnAiOm51bGwsInN0aXAiOiI3MC4yNTIuMTguMTUxIn0.7GMHXcYjQFFkRvDjpvaxkbOfDYfSIil04KojPT5bmA0/valentine-day-g8ea7b9292-1280.jpg</payload>
+  <tags>cc0</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

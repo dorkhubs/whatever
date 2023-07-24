@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>MacSonoma Plasma Light theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/2053176</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>233</downloads>
+  <installedfile>/home/.local/share/plasma/desktoptheme/MacSonoma-Light</installedfile>
+  <id>2053176</id>
+  <releasedate>2023-06-28</releasedate>
+  <summary>MacSonoma Plasma Light theme</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/2053176/g1148.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/2053176/g1148.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODc5NjIzNTMiLCJvIjoiMSIsInMiOiJhOTFlYTE3ZDk2NzZhYTY3NWZkOTRiNzc3M2JiZGIwNjc3MzU3OGM4YTdjYmE2NDAzOTk1ZGU1Y2QxNGFhNTliNDA3MzdiNTE5YzJkNjI0YjE0ZjM5MWYzZjQyYjZhOWViZDcxNTdiMTc4ZDdhZTVmNmQ0ODI3M2E3NjBiMDQwOCIsInQiOjE2ODgxMTk0ODUsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.FUIEvVBL2b9sDiuXGP9asTgiuHFxJQOg-LgLeBVEOfY/MacSonoma-Light.tar.xz</payload>
+  <tags>theme,original-product,plasma,unix,linux,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Breeze Glass</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>MirceaKitsune</author>
+  <homepage>https://store.kde.org/p/2056090</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>237</downloads>
+  <installedfile>/home/.local/share/plasma/desktoptheme/default</installedfile>
+  <id>2056090</id>
+  <releasedate>2023-06-25</releasedate>
+  <summary>Simple patch for the Breeze Plasma theme for extra transparency and other minor tweaks. It modifies the panels to use 50% transparency for extra blur, the clock follows more system colors and removes the 12 text while also receiving a transparent background, the task manager removes boxes around...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/26/82/05/2056090/screenshot-20230625-172606.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/26/82/05/2056090/screenshot-20230625-172606.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODc3MDQ1OTYiLCJvIjoiMSIsInMiOiI1M2JlZTBlYmE1YzY3MzAxNmRmMWUzMTNlOGNhODEyNzMyYWQzMThjNjZlODY4YjA0OTZiZjhkODZjZDEyNjIyNDFjN2IwMDIzMjlhMzQ0MDA2NGM5MWY0ZDAxZWVhYzY3MGM1MTYzZGQ0OWRlNmUwZTMwM2JmNTk3ZGYyMWM5MyIsInQiOjE2ODgxMTk0NzYsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.oAY2EhoSdBNKd6V0xfjFc-MFCULhTuPFZriQ_Jh9q70/breeze-glass-1.0.tar.gz</payload>
+  <tags>theme,transparent,plasma,linux,kde,gplv3,glass,efi,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

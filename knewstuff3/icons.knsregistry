@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Numix</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>westofer</author>
+  <homepage>https://store.kde.org/p/1417534</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>53</rating>
+  <downloads>13052</downloads>
+  <installedfile>/home/.local/share/icons/Numix/*</installedfile>
+  <id>1417534</id>
+  <releasedate>2020-09-01</releasedate>
+  <summary>Based on numix circle.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/58/52/33/1417534/1ea4b9dccd9f699b68833dee21feda89b3dae2318f0af9da5e2e4c5c24312c181a32.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/58/52/33/1417534/1ea4b9dccd9f699b68833dee21feda89b3dae2318f0af9da5e2e4c5c24312c181a32.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg5NTY1NjkiLCJvIjoiMSIsInMiOiJkYTQ3NGJhNmNlNTE2ZjhjNGU2YWYzOWI1ODBmZTgyYzMxMTI1NTY4N2VjMzdhOGQwYmM5ZDE0MWQzMjMzMzA0ZTc1OGE5ZjdjNjIyMzUzYTg4NmU3OGJlYzlmM2QwNGY1NmVkYjFjZGJhYjkzZGZlMzg4ZTNmYTAzZmJkODRiMiIsInQiOjE2ODgxMTkzOTUsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.FC3ANcv4iW5B0-DE2eFVDNshQjl2E7lglj5Q_oUiG7A/Numix.tar.gz</payload>
+  <tags>original-product,icon-theme,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Bubble icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1537795</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>7618</downloads>
+  <installedfile>/home/.local/share/icons/Bubble-dark/*</installedfile>
+  <installedfile>/home/.local/share/icons/Bubble/*</installedfile>
+  <id>1537795</id>
+  <releasedate>2021-06-21</releasedate>
+  <summary>&lt;strong>Bubble Icon Theme&lt;/strong>&lt;br />
+A colorful Design Rectangle icon theme for linux desktops&lt;br />
+------------------------------&lt;br />
+You can use this theme on all popular desktops&lt;br />
+You can now select the Download folder color&lt;br />
+------------------------------&lt;br />
+Github:...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1537795/8e8eec6ccb158a3c38f6a0cb4639c27a187641b62d459b9be7799cf1dc43daca2307.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1537795/8e8eec6ccb158a3c38f6a0cb4639c27a187641b62d459b9be7799cf1dc43daca2307.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjQyOTc2MTkiLCJvIjoiMSIsInMiOiJhMTAzYjY4OGRhZDRlYWI5YjgwZmEzMTQ1NmQ0OGYwZmFjMDczM2M2OGM5NDUyNGY4NWIwMTM3NGU0ZTg5NWRkOWRlMjEyYTNlOGQ2NTJkODZjMjEyMWQzM2Q3ZTI1NDZlOWZkNjc0OWRiODBmNmNjODgzMGNiNTQwMTBhYmMwNiIsInQiOjE2ODgxMTkzMDIsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.rTKoBgmZmqz11QkiC2CwogVwe_dqioWTz8_LLm898NM/Bubble.tar.xz</payload>
+  <tags>original-product,linux,icon-theme,gplv3,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Inverse icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1344791</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>89</rating>
+  <downloads>18983</downloads>
+  <installedfile>/home/.local/share/icons/Inverse-black/*</installedfile>
+  <installedfile>/home/.local/share/icons/Inverse-black-dark/*</installedfile>
+  <id>1344791</id>
+  <releasedate>2022-03-21</releasedate>
+  <summary>&lt;strong>Inverse Icon Theme&lt;/strong>&lt;br />
+A colorful Design circle icon theme for linux desktops&lt;br />
+------------------------------&lt;br />
+You can use this theme on all popular desktops&lt;br />
+You can now select the Download folder color&lt;br />
+------------------------------&lt;br />
+&lt;strong>KDE...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1344791/2e5692bc5f7317324def5360473c859b292a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1344791/2e5692bc5f7317324def5360473c859b292a.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDc4NzM2ODYiLCJvIjoiMSIsInMiOiIyNDBhNWMzMThlMWZlYWExNTk3Yjk2Nzc5ZDdmODFjZWM5NjNhMTcxZDIyZDhjMDhjZGI0YTcyNDg4Y2Y5NDMxMzZlZGQ1ZTExOWNmMjM2MjgwZGRjMDc0ZmUxNzU5YWI1NDRmY2JjYTU1NDNiMzk4NmY1Y2EwOGU2YWRiNjk0YyIsInQiOjE2ODgxMTkzNzMsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.ahK7k39vDni60x__qPlklYMshhymTpAQcWIbmjUD-s8/Inverse-black.tar.xz</payload>
+  <tags>original-product,linux,gplv3,icon-theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>McMojave-circle</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305429</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>6870</downloads>
+  <installedfile>/home/.local/share/icons/McMojave-circle-black-dark/*</installedfile>
+  <installedfile>/home/.local/share/icons/McMojave-circle-black/*</installedfile>
+  <id>1305429</id>
+  <releasedate>2023-06-15</releasedate>
+  <summary>MacOSX Mojave like circle icon theme for linux desktops&lt;br />
+--------------------------&lt;br />
+Based on OSX_ONE: &lt;a href="https://github.com/unc926/OSX_ONE" target="_blank" rel="nofollow">https://github.com/unc926/OSX_ONE&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>You can use this...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1305429/088a401b6c0998d484a63f7b5036ea945206.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1305429/088a401b6c0998d484a63f7b5036ea945206.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODY4NTQwMTkiLCJvIjoiMSIsInMiOiIwZmU2MmI2YjgzNzQyYjAxMDJlYTM3YjUxOTQ1NWMyNDczMmE4Mjg4Y2EzNTBhOTMzOWIzMTM4YWNjMTljMmZkOWFlMTA3YjZjMTNlZjkyYzE4MzY0ODg5NGU4ZDZmYzQzNTc2YjgzODI5ZjNkNWVmNDY1OTQ4ZmUxZmVmZWE1ZSIsInQiOjE2ODgxMTkzODYsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.normO8mxAR6LqedQGn3GmlRexYM2DWINxUnCZfIgFwY/McMojave-circle-black.tar.xz</payload>
+  <tags>unix,gplv3,icon-theme,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Glory icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1341835</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>77</rating>
+  <downloads>4746</downloads>
+  <installedfile>/home/.local/share/icons/Glory-black-dark/*</installedfile>
+  <installedfile>/home/.local/share/icons/Glory-black/*</installedfile>
+  <id>1341835</id>
+  <releasedate>2021-05-02</releasedate>
+  <summary>&lt;strong>Glory Icon Theme&lt;/strong>&lt;br />
+A colorful Design circle icon theme for linux desktops&lt;br />
+------------------------------&lt;br />
+You can use this theme on all popular desktops&lt;br />
+You can now select the Download folder color&lt;br />
+------------------------------&lt;br />
+Github:&lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1341835/e3821d7fd16213f2120816a135e187c0b8a6.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1341835/e3821d7fd16213f2120816a135e187c0b8a6.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTk5NjgxMDgiLCJvIjoiMSIsInMiOiI3ZjkzNDY4YTFkNGY0NWQ4YmI5Y2IwOThlODNiNGRkNjRiNTU1NmFjY2E5NGVkM2RiYmUzOTJmZTQ4NTJiZGRjZDlmOGEzNWEyNDY3OGFmMjNmNjRmODk5Njc0YmQ1OWI1Y2VlNDhhZmY1NWZlMDhhYWM1NzdiNjIyMzg0OGM3MCIsInQiOjE2ODgxMTkzMjYsInN0ZnAiOm51bGwsInN0aXAiOiI5OC40Mi4xMzguMjM2In0.IZ8aWE6mTYsuLhBRgWbXi1n_S2wJFclpgRMyhICeUnk/Glory-black.tar.xz</payload>
+  <tags>linux,unix,gplv3,icon-theme,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

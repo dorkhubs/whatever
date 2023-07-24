@@ -1,0 +1,52 @@
+[
+    {
+        "enabled": false,
+        "id": "df5521df9f406fcc1ed8ca7bed8dcf2f",
+        "metadata": {
+            "fullname": "xrandr-Chimei Innolux Corporation",
+            "name": "eDP1"
+        },
+        "mode": {
+            "refresh": 60.00103759765625,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 768
+        },
+        "priority": 0,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    },
+    {
+        "enabled": true,
+        "id": "6d3b0a386edb417bae91dcd5778e8ae2",
+        "metadata": {
+            "fullname": "xrandr-Sony-SONY TV-16843009",
+            "name": "HDMI1"
+        },
+        "mode": {
+            "refresh": 60.01516342163086,
+            "size": {
+                "height": 768,
+                "width": 1360
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "priority": 1,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    }
+]

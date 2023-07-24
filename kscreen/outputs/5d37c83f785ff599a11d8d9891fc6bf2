@@ -1,0 +1,19 @@
+{
+    "id": "5d37c83f785ff599a11d8d9891fc6bf2",
+    "metadata": {
+        "fullname": "xrandr-LG Electronics-2D HD LG TV-16843009",
+        "name": "HDMI1"
+    },
+    "mode": {
+        "refresh": 59.7895393371582,
+        "size": {
+            "height": 768,
+            "width": 1366
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

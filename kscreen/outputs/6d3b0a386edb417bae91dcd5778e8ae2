@@ -1,0 +1,19 @@
+{
+    "id": "6d3b0a386edb417bae91dcd5778e8ae2",
+    "metadata": {
+        "fullname": "xrandr-Sony-SONY TV-16843009",
+        "name": "HDMI1"
+    },
+    "mode": {
+        "refresh": 60.01516342163086,
+        "size": {
+            "height": 768,
+            "width": 1360
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}
